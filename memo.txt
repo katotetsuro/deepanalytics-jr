@@ -1,3 +1,0 @@
-初回submit
-test-mae-mean	test-mae-std	train-mae-mean	train-mae-std
-49	0.000139	0.000049	0.000061	0.000012
